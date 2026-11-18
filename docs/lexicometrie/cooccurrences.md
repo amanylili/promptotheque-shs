@@ -1,3 +1,7 @@
+---
+description: "Prompt pour calculer les cooccurrences d'un mot pôle : fenêtre, log-likelihood, indice hypergéométrique, graphe de cooccurrences."
+---
+
 # 🔗 Cooccurrences
 
 <div class="fiche" markdown>

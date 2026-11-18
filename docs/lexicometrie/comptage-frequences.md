@@ -1,3 +1,7 @@
+---
+description: "Prompt pour calculer les fréquences lexicales d'un corpus : dictionnaire de fréquences, hapax, richesse lexicale, loi de Zipf."
+---
+
 # 🔢 Comptage de fréquences
 
 <div class="fiche" markdown>

@@ -1,3 +1,7 @@
+---
+description: "Prompt pour réaliser et interpréter une analyse factorielle des correspondances (AFC) sur un tableau lexical avec FactoMineR ou TXM."
+---
+
 # 🗺️ AFC sur tableau lexical
 
 <div class="fiche" markdown>

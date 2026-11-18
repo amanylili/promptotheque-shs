@@ -1,3 +1,7 @@
+---
+description: "Prompt pour préparer, paramétrer et interpréter une classification de Reinert (CDH) avec IRaMuTeQ ou le package R rainette."
+---
+
 # 🌳 Classification (méthode Reinert)
 
 <div class="fiche" markdown>

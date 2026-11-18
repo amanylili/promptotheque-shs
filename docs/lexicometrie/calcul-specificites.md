@@ -1,3 +1,7 @@
+---
+description: "Prompt pour calculer les spécificités lexicales (modèle hypergéométrique de Lafon) avec TXM, Python ou R, et les interpréter."
+---
+
 # ⚖️ Calcul des spécificités
 
 <div class="fiche" markdown>

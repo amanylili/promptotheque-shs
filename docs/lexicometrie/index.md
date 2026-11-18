@@ -1,3 +1,7 @@
+---
+description: "Prompts de lexicométrie et de textométrie : fréquences, spécificités, AFC, cooccurrences et classification de Reinert."
+---
+
 # 📊 Lexicométrie
 
 Prompts pour l'analyse statistique des données textuelles. Tous imposent un **calcul réel**, par code exécuté ou par script fourni. L'assistant aide ensuite à **interpréter** les résultats.

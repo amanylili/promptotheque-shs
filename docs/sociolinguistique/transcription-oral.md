@@ -1,3 +1,7 @@
+---
+description: "Prompt pour définir des conventions de transcription de l'oral et réviser une transcription automatique (Whisper) pour ELAN ou CLAN."
+---
+
 # ✍️ Transcription de l'oral
 
 <div class="fiche" markdown>

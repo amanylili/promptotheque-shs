@@ -1,3 +1,7 @@
+---
+description: "Prompt pour repérer, classer et interpréter l'alternance codique dans une interaction plurilingue (Gumperz, Poplack)."
+---
+
 # 🔀 Alternance codique
 
 <div class="fiche" markdown>

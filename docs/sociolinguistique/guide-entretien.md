@@ -1,3 +1,7 @@
+---
+description: "Prompt pour construire un guide d'entretien semi-directif sur les pratiques et représentations linguistiques, avec notice d'information."
+---
+
 # 🎙️ Guide d'entretien sociolinguistique
 
 <div class="fiche" markdown>

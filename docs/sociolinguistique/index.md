@@ -1,3 +1,7 @@
+---
+description: "Prompts de sociolinguistique : guide d'entretien, transcription de l'oral et analyse de l'alternance codique."
+---
+
 # 🗣️ Sociolinguistique
 
 Prompts pour le travail de terrain et l'analyse des pratiques langagières.

@@ -1,0 +1,82 @@
+site_name: Promptothèque en sciences humaines et sociales
+site_description: Prompts prêts à l'emploi pour la linguistique de corpus, la lexicométrie, la sociolinguistique et la didactique du FLE
+site_author: Promptothèque SHS
+site_url: https://amanylili.github.io/promptotheque-shs/
+repo_url: https://github.com/amanylili/promptotheque-shs
+repo_name: promptotheque-shs
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.action.edit
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+
+plugins:
+  - search:
+      lang: fr
+
+nav:
+  - Accueil: index.md
+  - Bien utiliser les prompts: bonnes-pratiques.md
+  - Linguistique de corpus:
+      - linguistique-de-corpus/index.md
+      - Constituer un corpus: linguistique-de-corpus/constitution-corpus.md
+      - Nettoyer un corpus: linguistique-de-corpus/nettoyage-corpus.md
+      - Pseudonymiser un corpus: linguistique-de-corpus/pseudonymisation-corpus.md
+      - Annoter (lemmes, catégories): linguistique-de-corpus/annotation-morphosyntaxique.md
+      - Concordances (KWIC): linguistique-de-corpus/concordances-kwic.md
+  - Lexicométrie:
+      - lexicometrie/index.md
+      - Comptage de fréquences: lexicometrie/comptage-frequences.md
+      - Calcul des spécificités: lexicometrie/calcul-specificites.md
+      - AFC sur tableau lexical: lexicometrie/afc-tableau-lexical.md
+      - Cooccurrences: lexicometrie/cooccurrences.md
+      - Classification (méthode Reinert): lexicometrie/classification-reinert.md
+  - Sociolinguistique:
+      - sociolinguistique/index.md
+      - Guide d'entretien: sociolinguistique/guide-entretien.md
+      - Transcription de l'oral: sociolinguistique/transcription-oral.md
+      - Alternance codique: sociolinguistique/alternance-codique.md
+  - Didactique du FLE:
+      - didactique-fle/index.md
+      - Séquence sur corpus: didactique-fle/sequence-sur-corpus.md
+      - Adapter un texte au CECRL: didactique-fle/adapter-texte-cecrl.md
+      - Corriger une production écrite: didactique-fle/correction-production-ecrite.md
+  - Contribuer: contribuer.md

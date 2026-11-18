@@ -1,3 +1,7 @@
+---
+description: "Prompt pour corriger une production écrite en FLE : grille CECRL, typologie des erreurs, retour formatif et remédiation."
+---
+
 # 📝 Corriger une production écrite
 
 <div class="fiche" markdown>

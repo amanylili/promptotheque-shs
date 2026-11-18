@@ -1,3 +1,7 @@
+---
+description: "Prompt pour didactiser un document authentique selon le niveau CECRL : analyse de difficulté, adaptation, glossaire, activités."
+---
+
 # 📖 Adapter un texte au CECRL
 
 <div class="fiche" markdown>

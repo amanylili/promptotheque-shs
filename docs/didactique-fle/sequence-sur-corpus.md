@@ -1,3 +1,7 @@
+---
+description: "Prompt pour construire une séquence de FLE fondée sur les concordances (data-driven learning), avec fiches apprenants et corrigé."
+---
+
 # 🧩 Séquence d'apprentissage sur corpus
 
 <div class="fiche" markdown>

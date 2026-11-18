@@ -1,3 +1,7 @@
+---
+description: "Prompts de didactique du FLE : séquence sur corpus, adaptation de textes au CECRL, correction de productions écrites."
+---
+
 # 🎓 Didactique du FLE
 
 Prompts pour les enseignants et formateurs de français langue étrangère et seconde.

@@ -1,3 +1,7 @@
+---
+description: "Promptothèque en sciences humaines et sociales : prompts prêts à l'emploi pour la linguistique de corpus, la lexicométrie, la sociolinguistique et la didactique du FLE."
+---
+
 # Promptothèque en sciences humaines et sociales
 
 Des **prompts prêts à l'emploi** pour les sciences du langage. Ils servent à préparer, analyser et exploiter des corpus avec un assistant d'IA générative (Claude, ChatGPT, Mistral Le Chat, un modèle local…).

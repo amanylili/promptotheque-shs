@@ -1,3 +1,7 @@
+---
+description: "Bien utiliser les prompts d'IA en sciences du langage : fonctionnement par phases, calculs vérifiables, RGPD, pseudonymisation et citation de l'IA."
+---
+
 # Bien utiliser les prompts
 
 ## Le fonctionnement par phases

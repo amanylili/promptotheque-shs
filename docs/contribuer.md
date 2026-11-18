@@ -1,3 +1,7 @@
+---
+description: "Contribuer à la promptothèque SHS : proposer un nouveau prompt de linguistique, de lexicométrie ou de didactique du FLE."
+---
+
 # Contribuer
 
 Cette promptothèque est collaborative. Toute amélioration est bienvenue : nouveau prompt, correction, retour d'usage.

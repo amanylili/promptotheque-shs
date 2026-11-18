@@ -1,3 +1,7 @@
+---
+description: "Prompt pour extraire et analyser des concordances KWIC : requêtes CQL pour TXM, expressions régulières, typologie des emplois."
+---
+
 # 🔍 Concordances (KWIC)
 
 <div class="fiche" markdown>

@@ -1,3 +1,7 @@
+---
+description: "Prompt pour constituer un corpus de recherche : protocole, critères d'inclusion, métadonnées, RGPD et plan de gestion des données."
+---
+
 # 🧭 Constituer un corpus
 
 <div class="fiche" markdown>

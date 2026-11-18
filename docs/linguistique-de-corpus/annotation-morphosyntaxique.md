@@ -1,3 +1,7 @@
+---
+description: "Prompt pour lemmatiser et étiqueter un corpus en français avec spaCy, Stanza, UDPipe ou TreeTagger, puis évaluer l'annotation."
+---
+
 # 🏷️ Annoter un corpus (lemmes, catégories)
 
 <div class="fiche" markdown>

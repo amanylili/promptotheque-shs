@@ -1,3 +1,7 @@
+---
+description: "Prompts de linguistique de corpus : constituer, nettoyer, pseudonymiser et annoter un corpus, extraire des concordances KWIC."
+---
+
 # 📚 Linguistique de corpus
 
 Prompts pour préparer un corpus avant toute analyse : du protocole de constitution jusqu'à l'extraction de concordances.

@@ -1,3 +1,7 @@
+---
+description: "Prompt pour pseudonymiser un corpus d'entretiens ou de copies : codes cohérents, table de correspondance, risques de réidentification, RGPD."
+---
+
 # 🕶️ Pseudonymiser un corpus
 
 <div class="fiche" markdown>

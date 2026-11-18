@@ -1,3 +1,7 @@
+---
+description: "Prompt pour nettoyer un corpus textuel avant analyse : encodage, césures, balises, apostrophes, format TXM, IRaMuTeQ ou AntConc."
+---
+
 # 🧹 Nettoyer un corpus
 
 <div class="fiche" markdown>

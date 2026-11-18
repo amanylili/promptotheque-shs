@@ -1,0 +1,16 @@
+/* Fiche d'identité en haut de chaque prompt */
+.fiche {
+  border-left: 4px solid var(--md-accent-fg-color);
+  background: var(--md-code-bg-color);
+  padding: 0.6rem 1rem;
+  border-radius: 6px;
+  font-size: 0.75rem;
+  margin-bottom: 1.2rem;
+}
+.fiche strong { color: var(--md-primary-fg-color); }
+
+/* Blocs de prompt un peu plus aérés */
+.md-typeset pre > code { white-space: pre-wrap; }
+
+/* Cartes de la page d'accueil */
+.md-typeset .grid.cards > ul > li { border-radius: 10px; }

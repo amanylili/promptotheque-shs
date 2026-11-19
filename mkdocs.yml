@@ -44,7 +44,11 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -83,4 +87,7 @@ nav:
   - Recherche documentaire:
       - recherche-documentaire/index.md
       - Recherche Google avancée: recherche-documentaire/recherche-google-avancee.md
+  - Visualisation:
+      - visualisation/index.md
+      - Carte mentale (Mermaid): visualisation/carte-mentale.md
   - Contribuer: contribuer.md

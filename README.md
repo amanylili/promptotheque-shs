@@ -13,6 +13,7 @@ Des prompts prêts à l'emploi pour les **sciences du langage**, à utiliser ave
 | 🗣️ Sociolinguistique | Guide d'entretien · Transcription de l'oral · Alternance codique |
 | 🎓 Didactique du FLE | Séquence sur corpus · Adapter un texte au CECRL · Corriger une production écrite |
 | 🔎 Recherche documentaire | Recherche Google avancée |
+| 🧠 Visualisation | Carte mentale (Mermaid) |
 
 Chaque prompt est **interactif** : l'assistant avance par phases et s'arrête à chaque ⏸️ WAIT pour attendre votre réponse.
 
@@ -31,6 +32,7 @@ docs/                       contenu du site (Markdown)
   sociolinguistique/
   didactique-fle/
   recherche-documentaire/
+  visualisation/
 mkdocs.yml                  configuration du site
 .github/workflows/deploy.yml  publication automatique sur GitHub Pages
 ```

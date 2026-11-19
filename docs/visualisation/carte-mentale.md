@@ -25,6 +25,7 @@ description: "Prompt pour transformer des entretiens, une revue de littérature 
 | Plan de mémoire ou de thèse | Insécurité linguistique des enseignants |
 | Cartographie d'un champ conceptuel | Notions de la sociolinguistique variationniste |
 | Présentation des classes d'une analyse Reinert | Discours des apprenants sur l'erreur |
+| Lecture d'un ouvrage théorique | Le métier de sociologue |
 
 ## Le prompt
 
@@ -138,47 +139,62 @@ Demande : « Souhaitez-vous ajuster la carte ? (niveau de détail, nouvelle bran
 
 ## Exemple
 
-??? example "Document fourni (fictif) : synthèse de six entretiens avec des enseignant·es de FLE"
-    *Question de recherche : quelle place les enseignant·es accordent-ils aux langues premières des apprenant·es en classe de FLE ?*
+!!! example "Document fourni : un ouvrage d'épistémologie"
+    **Bourdieu, P., Chamboredon, J.-C. et Passeron, J.-C. (2005).** *Le métier de sociologue. Préalables épistémologiques* (5ᵉ éd.). Mouton de Gruyter. Première édition : 1968.
 
-    - E1, E3 et E5 traduisent ponctuellement les consignes complexes et le lexique abstrait. E3 : « ça fait gagner un temps fou ».
-    - E2 applique une règle stricte du « tout en français », imposée par le règlement du centre.
-    - E4 et E6 font comparer les langues aux apprenant·es (faux amis, ordre des mots). Ils y voient une ressource cognitive.
-    - E2 et E5 craignent un recours systématique à la langue première, qui freinerait l'immersion.
-    - Tous jugent utile un usage ciblé et limité de la langue première.
-    - Pas d'accord sur sa place à l'oral : E4 l'accepte en travail de groupe, E2 la refuse.
-    - E6 évoque le rôle des parents sans préciser sa pensée.
-    - La préparation au DELF est citée comme une contrainte par E1 et E2.
+    **Extrait utilisé :** l'entretien de Pierre Bourdieu avec Beate Krais (décembre 1988), placé en tête de l'ouvrage, et le sommaire détaillé.
+
+    **Réponses données à la phase 1 :**
+
+    - Type de document : ouvrage théorique d'épistémologie des sciences sociales.
+    - Objectif : préparer une séance de cours de méthodologie de la recherche.
+    - Entrée : la structure de l'ouvrage, organisée autour de ses trois « actes » (rupture, construction, constatation).
+    - Données personnelles : aucune.
+
+    Le texte de l'ouvrage n'est pas reproduit ici, car il est protégé par le droit d'auteur. Utilisez votre propre exemplaire ou celui de votre bibliothèque universitaire.
 
 **Résultat obtenu** (code Mermaid généré à la phase 4) :
 
 ```mermaid
 mindmap
-  root((Langues premières en classe de FLE))
-    🗣️ Pratiques déclarées
-      Traduction ponctuelle
-        Consignes complexes
-        Lexique abstrait
-      Tout en français
-        Règlement du centre
-    🧭 Représentations
-      Ressource cognitive
-        Comparaison des langues
-        Faux amis
-      Frein à l'immersion
-        Peur du recours systématique
-    🏫 Contraintes institutionnelles
-      Règles du centre
-      Préparation au DELF
-    ✅ Consensus
-      Usage ciblé utile
-    ❓ Débats
-      Place à l'oral
-        Accepté en groupe E4
-        Refusé E2
-    🔍 À clarifier
-      Rôle des parents E6
+  root((Le métier de sociologue))
+    🧭 Vigilance épistémologique
+      Habitus du chercheur
+      Invention et preuve
+      Contre le méthodologisme
+    ✂️ La rupture
+      Le fait est conquis
+      Familiarité comme obstacle
+      Prénotions et sens commun
+      Principe de non-conscience
+      Pièges du langage commun
+    🏗️ La construction de l'objet
+      Le fait est construit
+      Contre l'empirisme
+      Objets préconstruits
+      Techniques jamais neutres
+        Entretien non directif
+        Codage et échantillonnage
+      Analogie et modèles
+    🔬 Le rationalisme appliqué
+      Le fait est constaté
+      Hiérarchie des actes
+      Vérification systématique
+    🪞 Sociologie de la sociologie
+      Tentation positiviste
+      Ethnocentrisme de classe
+      Cité savante
+    🗣️ Entretien avec Beate Krais
+      Bachelard Canguilhem Koyré
+      Problèmes sociaux préconstruits
+      Contre la science miroir
+      Volumes 2 et 3 non écrits
 ```
+
+!!! tip "Lecture de la carte"
+    Les trois branches centrales suivent l'ordre des raisons défendu par l'ouvrage : le fait scientifique est d'abord conquis contre le sens commun, puis construit, puis constaté. La branche « Entretien » regroupe ce que Bourdieu dit, vingt ans après, de la genèse du livre et des deux volumes annoncés mais jamais écrits.
+
+    Pour une séance en sciences du langage, on peut demander à la phase 5 une branche supplémentaire « Transposition en linguistique de terrain » : catégories préconstruites (« langue », « dialecte », « locuteur natif »), présupposés de l'entretien sur les pratiques langagières, codage des transcriptions.
 
 ## Conseils d'utilisation
 

@@ -8,8 +8,7 @@ Des prompts prêts à l'emploi pour les **sciences du langage**, à utiliser ave
 
 | Rubrique | Prompts |
 |---|---|
-| 📚 Linguistique de corpus | Constituer · Nettoyer · Pseudonymiser · Annoter · Concordances (KWIC) |
-| 📊 Lexicométrie | Fréquences · Spécificités (Lafon) · AFC sur tableau lexical · Cooccurrences · Classification Reinert |
+| 📚 Linguistique de corpus et lexicométrie | Constituer · Nettoyer · Pseudonymiser · Annoter · Concordances (KWIC) · Fréquences · Spécificités (Lafon) · AFC sur tableau lexical · Cooccurrences · Classification Reinert |
 | 🗣️ Sociolinguistique | Guide d'entretien · Transcription de l'oral · Alternance codique |
 | 🎓 Didactique du FLE | Séquence sur corpus · Adapter un texte au CECRL · Corriger une production écrite |
 | 🔎 Recherche documentaire | Recherche Google avancée |

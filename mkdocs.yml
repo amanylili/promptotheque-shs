@@ -60,20 +60,20 @@ plugins:
 nav:
   - Accueil: index.md
   - Bien utiliser les prompts: bonnes-pratiques.md
-  - Linguistique de corpus:
+  - Linguistique de corpus et lexicométrie:
       - linguistique-de-corpus/index.md
-      - Constituer un corpus: linguistique-de-corpus/constitution-corpus.md
-      - Nettoyer un corpus: linguistique-de-corpus/nettoyage-corpus.md
-      - Pseudonymiser un corpus: linguistique-de-corpus/pseudonymisation-corpus.md
-      - Annoter (lemmes, catégories): linguistique-de-corpus/annotation-morphosyntaxique.md
-      - Concordances (KWIC): linguistique-de-corpus/concordances-kwic.md
-  - Lexicométrie:
-      - lexicometrie/index.md
-      - Comptage de fréquences: lexicometrie/comptage-frequences.md
-      - Calcul des spécificités: lexicometrie/calcul-specificites.md
-      - AFC sur tableau lexical: lexicometrie/afc-tableau-lexical.md
-      - Cooccurrences: lexicometrie/cooccurrences.md
-      - Classification (méthode Reinert): lexicometrie/classification-reinert.md
+      - Préparer et explorer le corpus:
+          - Constituer un corpus: linguistique-de-corpus/constitution-corpus.md
+          - Nettoyer un corpus: linguistique-de-corpus/nettoyage-corpus.md
+          - Pseudonymiser un corpus: linguistique-de-corpus/pseudonymisation-corpus.md
+          - Annoter (lemmes, catégories): linguistique-de-corpus/annotation-morphosyntaxique.md
+          - Concordances (KWIC): linguistique-de-corpus/concordances-kwic.md
+      - Analyser le corpus (lexicométrie):
+          - Comptage de fréquences: lexicometrie/comptage-frequences.md
+          - Calcul des spécificités: lexicometrie/calcul-specificites.md
+          - AFC sur tableau lexical: lexicometrie/afc-tableau-lexical.md
+          - Cooccurrences: lexicometrie/cooccurrences.md
+          - Classification (méthode Reinert): lexicometrie/classification-reinert.md
   - Sociolinguistique:
       - sociolinguistique/index.md
       - Guide d'entretien: sociolinguistique/guide-entretien.md

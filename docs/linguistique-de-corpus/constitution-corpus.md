@@ -5,7 +5,7 @@ description: "Prompt pour constituer un corpus de recherche : protocole, critèr
 # 🧭 Constituer un corpus
 
 <div class="fiche" markdown>
-**Rubrique :** Linguistique de corpus · **Niveau :** débutant · **Outils associés :** DMP OPIDoR, Nakala, Ortolang
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** débutant · **Outils associés :** DMP OPIDoR, Nakala, Ortolang
 </div>
 
 !!! info "À quoi sert ce prompt ?"

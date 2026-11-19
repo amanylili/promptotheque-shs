@@ -5,7 +5,7 @@ description: "Prompt pour pseudonymiser un corpus d'entretiens ou de copies : co
 # 🕶️ Pseudonymiser un corpus
 
 <div class="fiche" markdown>
-**Rubrique :** Linguistique de corpus · **Niveau :** débutant · **Outils associés :** tout assistant, de préférence installé localement
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** débutant · **Outils associés :** tout assistant, de préférence installé localement
 </div>
 
 !!! danger "Avant de coller vos données"

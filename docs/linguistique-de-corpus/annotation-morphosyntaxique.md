@@ -5,7 +5,7 @@ description: "Prompt pour lemmatiser et étiqueter un corpus en français avec s
 # 🏷️ Annoter un corpus (lemmes, catégories)
 
 <div class="fiche" markdown>
-**Rubrique :** Linguistique de corpus · **Niveau :** intermédiaire · **Outils associés :** spaCy, Stanza, UDPipe, TreeTagger, TXM
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** intermédiaire · **Outils associés :** spaCy, Stanza, UDPipe, TreeTagger, TXM
 </div>
 
 !!! info "À quoi sert ce prompt ?"

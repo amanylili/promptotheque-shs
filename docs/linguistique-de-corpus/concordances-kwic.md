@@ -5,7 +5,7 @@ description: "Prompt pour extraire et analyser des concordances KWIC : requêtes
 # 🔍 Concordances (KWIC)
 
 <div class="fiche" markdown>
-**Rubrique :** Linguistique de corpus · **Niveau :** débutant · **Outils associés :** TXM, AntConc, Python
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** débutant · **Outils associés :** TXM, AntConc, Python
 </div>
 
 !!! info "À quoi sert ce prompt ?"

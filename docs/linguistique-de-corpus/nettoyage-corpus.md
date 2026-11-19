@@ -5,7 +5,7 @@ description: "Prompt pour nettoyer un corpus textuel avant analyse : encodage, c
 # 🧹 Nettoyer un corpus
 
 <div class="fiche" markdown>
-**Rubrique :** Linguistique de corpus · **Niveau :** débutant · **Outils associés :** TXM, IRaMuTeQ, AntConc, Python
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** débutant · **Outils associés :** TXM, IRaMuTeQ, AntConc, Python
 </div>
 
 !!! info "À quoi sert ce prompt ?"

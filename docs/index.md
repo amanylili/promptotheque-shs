@@ -15,21 +15,13 @@ Chaque prompt est **interactif**. L'assistant avance par phases et s'arrête à 
 
 <div class="grid cards" markdown>
 
--   **📚 Linguistique de corpus**
+-   **📚 Linguistique de corpus et lexicométrie**
 
     ---
 
-    Constituer, nettoyer, pseudonymiser et annoter un corpus. Extraire des concordances.
+    Constituer, nettoyer, pseudonymiser et annoter un corpus, puis l’analyser : fréquences, spécificités, AFC, cooccurrences, Reinert.
 
     [→ Voir les prompts](linguistique-de-corpus/index.md)
-
--   **📊 Lexicométrie**
-
-    ---
-
-    Fréquences, spécificités, AFC, cooccurrences, classification de Reinert.
-
-    [→ Voir les prompts](lexicometrie/index.md)
 
 -   **🗣️ Sociolinguistique**
 

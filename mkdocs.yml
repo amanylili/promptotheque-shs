@@ -68,12 +68,24 @@ nav:
           - Pseudonymiser un corpus: linguistique-de-corpus/pseudonymisation-corpus.md
           - Annoter (lemmes, catégories): linguistique-de-corpus/annotation-morphosyntaxique.md
           - Concordances (KWIC): linguistique-de-corpus/concordances-kwic.md
+          - Segmenter un corpus: linguistique-de-corpus/segmentation.md
+          - Construire un concordancier: linguistique-de-corpus/concordancier.md
+          - Interroger un corpus (CQL et SQL): linguistique-de-corpus/requetes-cql-sql.md
       - Analyser le corpus (lexicométrie):
           - Comptage de fréquences: lexicometrie/comptage-frequences.md
           - Calcul des spécificités: lexicometrie/calcul-specificites.md
           - AFC sur tableau lexical: lexicometrie/afc-tableau-lexical.md
           - Cooccurrences: lexicometrie/cooccurrences.md
           - Classification (méthode Reinert): lexicometrie/classification-reinert.md
+          - Segments répétés: lexicometrie/segments-repetes.md
+          - Motifs textuels: lexicometrie/motifs-textuels.md
+          - Analyse en composantes principales (ACP): lexicometrie/acp.md
+          - Classification automatique (CAH, k-means): lexicometrie/classification-automatique.md
+          - Choisir et rapporter une statistique: lexicometrie/statistiques-corpus.md
+      - TAL et apprentissage automatique:
+          - Repérer les entités nommées: linguistique-de-corpus/entites-nommees.md
+          - Aligner un corpus parallèle: linguistique-de-corpus/alignement.md
+          - Apprentissage profond appliqué au texte: linguistique-de-corpus/apprentissage-profond.md
   - Sociolinguistique:
       - sociolinguistique/index.md
       - Guide d'entretien: sociolinguistique/guide-entretien.md

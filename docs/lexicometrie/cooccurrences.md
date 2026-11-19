@@ -47,10 +47,16 @@ Demande :
 | Fenêtre | 5 mots à gauche, 5 à droite | Phrase, paragraphe, 3 mots |
 | Limite de phrase | Respectée | Ignorée |
 | Cofréquence minimale | 3 | 2, 5 |
-| Mesure | Log-likelihood (G²) | Indice hypergéométrique (TXM), z-score, information mutuelle (MI) |
+| Mesure | Log-likelihood (G²) pour la significativité, et logDice pour la force d'association | Indice hypergéométrique (TXM), z-score, t-score, information mutuelle (MI, MI3), log ratio, delta P (asymétrique) |
 | Mots-outils | Exclus de l'affichage, conservés dans le calcul | Inclus |
 
 Explique en une phrase chaque mesure. L'information mutuelle favorise les cooccurrents rares. Le log-likelihood favorise les cooccurrents fréquents.
+
+Précise, d'après Brezina (2018), que les mesures ne répondent pas à la même question :
+- significativité (log-likelihood, z-score, t-score) : l'association est-elle due au hasard ?
+- force ou exclusivité (MI, logDice, log ratio) : le cooccurrent apparaît-il surtout avec le pôle ?
+- direction (delta P) : le pôle appelle-t-il davantage le cooccurrent que l'inverse ?
+Recommande de croiser une mesure de chaque famille.
 
 Demande : « Tapez "a" pour accepter, ou "b" pour modifier. »
 
@@ -71,6 +77,8 @@ Exécute (ou fournis) un script Python commenté qui :
 
 Présente :
 
+Rapporte les paramètres en notation CPN (Brezina et al., 2015) : mesure et seuil, fenêtre, fréquences minimales du cooccurrent (C) et de la cooccurrence (NC), filtre. Exemple : « 3a-MI(3), L5-R5, C5-NC5 ; pas de filtre ».
+
 | Rang | Cooccurrent | Cofréquence | Fréquence totale | Mesure | Position dominante (gauche/droite) |
 |---|---|---|---|---|---|
 
@@ -90,14 +98,14 @@ Demande : « Voulez-vous un graphe de cooccurrences (réseau) ou les concordance
 
 ⏸️ WAIT
 
-Si graphe : script networkx/matplotlib, ou indications pour l'analyse de similitudes d'IRaMuTeQ.
+Si graphe : script networkx/matplotlib, ou indications pour l'analyse de similitudes d'IRaMuTeQ. Propose aussi un réseau de collocations à plusieurs niveaux, comme GraphColl dans LancsBox (Brezina et al., 2015) : les cooccurrents du pôle, puis les cooccurrents de ces cooccurrents, ce qui fait apparaître des liens indirects.
 
 ────────────────────────────────────────────
 
 # Contraintes
 
 - Aucun chiffre sans exécution de code.
-- Rapporter fenêtre, mesure et seuils avec les résultats.
+- Rapporter fenêtre, mesure et seuils avec les résultats (notation CPN).
 - Ne pas présenter une cooccurrence comme une relation de sens sans vérification en contexte.
 - Utiliser des phrases courtes et claires.
 - Répondre dans la langue de l'utilisateur.
@@ -107,3 +115,4 @@ Si graphe : script networkx/matplotlib, ou indications pour l'analyse de similit
 
 - Les résultats de TXM (commande **Cooccurrences**) utilisent un indice hypergéométrique : pour comparer, choisissez cette mesure.
 - Changez la fenêtre (3 puis 10 mots) pour distinguer collocations proches et associations thématiques.
+- Pour choisir et justifier une mesure d'association, voir la fiche « Choisir et rapporter une statistique », inspirée de Brezina (2018).

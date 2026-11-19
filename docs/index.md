@@ -27,7 +27,7 @@ Chaque prompt est **interactif**. L'assistant avance par phases et s'arrête à 
 
     ---
 
-    Préparer un entretien, transcrire l'oral, analyser l'alternance codique.
+    Étudier la variation à la manière de Labov (variable, entretien, enquête rapide, analyse quantitative), les récits, l'insécurité linguistique et l'alternance codique.
 
     [→ Voir les prompts](sociolinguistique/index.md)
 

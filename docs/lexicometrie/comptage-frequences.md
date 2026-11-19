@@ -5,7 +5,7 @@ description: "Prompt pour calculer les fréquences lexicales d'un corpus : dicti
 # 🔢 Comptage de fréquences
 
 <div class="fiche" markdown>
-**Rubrique :** Lexicométrie · **Niveau :** débutant · **Outils associés :** Python, R, TXM, AntConc
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** débutant · **Outils associés :** Python, R, TXM, AntConc
 </div>
 
 !!! info "À quoi sert ce prompt ?"

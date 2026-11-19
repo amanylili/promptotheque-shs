@@ -5,7 +5,7 @@ description: "Prompt pour réaliser et interpréter une analyse factorielle des 
 # 🗺️ AFC sur tableau lexical
 
 <div class="fiche" markdown>
-**Rubrique :** Lexicométrie · **Niveau :** avancé · **Outils associés :** R (FactoMineR), Python (prince), TXM, IRaMuTeQ
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** avancé · **Outils associés :** R (FactoMineR), Python (prince), TXM, IRaMuTeQ
 </div>
 
 !!! info "À quoi sert ce prompt ?"

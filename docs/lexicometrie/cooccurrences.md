@@ -5,7 +5,7 @@ description: "Prompt pour calculer les cooccurrences d'un mot pôle : fenêtre, 
 # 🔗 Cooccurrences
 
 <div class="fiche" markdown>
-**Rubrique :** Lexicométrie · **Niveau :** intermédiaire · **Outils associés :** TXM, AntConc, IRaMuTeQ, Python
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** intermédiaire · **Outils associés :** TXM, AntConc, IRaMuTeQ, Python
 </div>
 
 !!! info "À quoi sert ce prompt ?"

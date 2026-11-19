@@ -5,7 +5,7 @@ description: "Prompt pour préparer, paramétrer et interpréter une classificat
 # 🌳 Classification (méthode Reinert)
 
 <div class="fiche" markdown>
-**Rubrique :** Lexicométrie · **Niveau :** intermédiaire · **Outils associés :** IRaMuTeQ, R (rainette)
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** intermédiaire · **Outils associés :** IRaMuTeQ, R (rainette)
 </div>
 
 !!! info "À quoi sert ce prompt ?"

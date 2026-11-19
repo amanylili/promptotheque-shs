@@ -5,7 +5,7 @@ description: "Prompt pour calculer les spécificités lexicales (modèle hyperg�
 # ⚖️ Calcul des spécificités
 
 <div class="fiche" markdown>
-**Rubrique :** Lexicométrie · **Niveau :** intermédiaire · **Outils associés :** TXM, IRaMuTeQ, Python (scipy), R
+**Rubrique :** Linguistique de corpus et lexicométrie · **Niveau :** intermédiaire · **Outils associés :** TXM, IRaMuTeQ, Python (scipy), R
 </div>
 
 !!! info "À quoi sert ce prompt ?"

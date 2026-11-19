@@ -80,4 +80,7 @@ nav:
       - Séquence sur corpus: didactique-fle/sequence-sur-corpus.md
       - Adapter un texte au CECRL: didactique-fle/adapter-texte-cecrl.md
       - Corriger une production écrite: didactique-fle/correction-production-ecrite.md
+  - Recherche documentaire:
+      - recherche-documentaire/index.md
+      - Recherche Google avancée: recherche-documentaire/recherche-google-avancee.md
   - Contribuer: contribuer.md

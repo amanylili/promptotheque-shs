@@ -16,8 +16,19 @@ Prompts pour tout le travail sur corpus, de sa constitution jusqu'à son analyse
 | [Annoter (lemmes, catégories)](annotation-morphosyntaxique.md) | Lemmatiser et étiqueter morphosyntaxiquement, puis évaluer l'annotation | Intermédiaire |
 | [Concordances (KWIC)](concordances-kwic.md) | Extraire et analyser les contextes d'un mot ou d'un motif | Débutant |
 | [Segmenter un corpus](segmentation.md) | Définir et évaluer le découpage en mots, phrases, énoncés, tours de parole ou parties | Intermédiaire |
-| [Construire un concordancier](concordancier.md) | Programmer un concordancier KWIC sur mesure, testé, avec tri et export | Avancé |
+
+### 🔍 Rechercher dans le corpus
+
+Prompts pour retrouver, compter, extraire ou transformer des formes dans un corpus, avec des **expressions régulières** (regex) ou des **requêtes structurées**. Chaque prompt teste ses expressions sur des exemples à trouver et à ne pas trouver avant de les livrer.
+
+| Prompt | Pour… | Niveau |
+|---|---|---|
+| [Du langage courant à l’expression régulière](expressions-regulieres.md) | Décrire en français ce qu’on cherche, obtenir une regex expliquée, testée et adaptée à son outil | Débutant à avancé |
+| [Repérer un phénomène linguistique par regex](regex-phenomenes.md) | Morphologie, graphies non standard, écriture inclusive dans un corpus non annoté, avec précision et rappel mesurés | Avancé |
+| [Extraire des données structurées par regex](regex-extraction.md) | Locuteurs, horodatages, variables IRaMuTeQ, citations : du texte au tableau, avec rapport de validation | Avancé |
+| [Transformer un corpus par remplacements en série](regex-remplacements.md) | Chaîne de rechercher-remplacer testée, essai à blanc, journal des modifications | Avancé |
 | [Interroger un corpus : CQL et SQL](requetes-cql-sql.md) | Traduire une question en requête structurée et mesurer son bruit et son silence | Avancé |
+| [Construire un concordancier](concordancier.md) | Programmer un concordancier KWIC sur mesure, testé, avec tri et export | Avancé |
 
 ## 2. Analyser le corpus : lexicométrie
 

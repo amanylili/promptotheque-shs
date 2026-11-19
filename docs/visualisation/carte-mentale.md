@@ -25,7 +25,7 @@ description: "Prompt pour transformer des entretiens, une revue de littérature 
 | Plan de mémoire ou de thèse | Insécurité linguistique des enseignants |
 | Cartographie d'un champ conceptuel | Notions de la sociolinguistique variationniste |
 | Présentation des classes d'une analyse Reinert | Discours des apprenants sur l'erreur |
-| Lecture d'un ouvrage théorique | Le métier de sociologue |
+| Lecture d'un ouvrage théorique | Les Règles de la méthode sociologique |
 
 ## Le prompt
 
@@ -139,62 +139,63 @@ Demande : « Souhaitez-vous ajuster la carte ? (niveau de détail, nouvelle bran
 
 ## Exemple
 
-!!! example "Document fourni : un ouvrage d'épistémologie"
-    **Bourdieu, P., Chamboredon, J.-C. et Passeron, J.-C. (2005).** *Le métier de sociologue. Préalables épistémologiques* (5ᵉ éd.). Mouton de Gruyter. Première édition : 1968.
+!!! example "Document fourni : un classique du domaine public"
+    **Durkheim, É. (1895).** *Les Règles de la méthode sociologique*. Félix Alcan. Édition numérique libre : Hurlus (2021), d'après Gallica.
 
-    **Extrait utilisé :** l'entretien de Pierre Bourdieu avec Beate Krais (décembre 1988), placé en tête de l'ouvrage, et le sommaire détaillé.
+    [📄 Télécharger le PDF](durkheim-1895-regles-methode-sociologique.pdf){ .md-button }
+
+    Durkheim est mort en 1917 : son œuvre est dans le domaine public. Le PDF peut donc être joint tel quel à l'assistant.
 
     **Réponses données à la phase 1 :**
 
-    - Type de document : ouvrage théorique d'épistémologie des sciences sociales.
+    - Type de document : ouvrage théorique classique (méthodologie des sciences sociales).
     - Objectif : préparer une séance de cours de méthodologie de la recherche.
-    - Entrée : la structure de l'ouvrage, organisée autour de ses trois « actes » (rupture, construction, constatation).
+    - Entrée : les chapitres de l'ouvrage.
     - Données personnelles : aucune.
-
-    Le texte de l'ouvrage n'est pas reproduit ici, car il est protégé par le droit d'auteur. Utilisez votre propre exemplaire ou celui de votre bibliothèque universitaire.
 
 **Résultat obtenu** (code Mermaid généré à la phase 4) :
 
 ```mermaid
 mindmap
-  root((Le métier de sociologue))
-    🧭 Vigilance épistémologique
-      Habitus du chercheur
-      Invention et preuve
-      Contre le méthodologisme
-    ✂️ La rupture
-      Le fait est conquis
-      Familiarité comme obstacle
-      Prénotions et sens commun
-      Principe de non-conscience
-      Pièges du langage commun
-    🏗️ La construction de l'objet
-      Le fait est construit
-      Contre l'empirisme
-      Objets préconstruits
-      Techniques jamais neutres
-        Entretien non directif
-        Codage et échantillonnage
-      Analogie et modèles
-    🔬 Le rationalisme appliqué
-      Le fait est constaté
-      Hiérarchie des actes
-      Vérification systématique
-    🪞 Sociologie de la sociologie
-      Tentation positiviste
-      Ethnocentrisme de classe
-      Cité savante
-    🗣️ Entretien avec Beate Krais
-      Bachelard Canguilhem Koyré
-      Problèmes sociaux préconstruits
-      Contre la science miroir
-      Volumes 2 et 3 non écrits
+  root((Les Règles de la méthode sociologique))
+    🧩 Le fait social
+      Extériorité
+      Contrainte sur les individus
+      Indépendant des manifestations individuelles
+      Social avant d'être général
+    👁️ Observation des faits
+      Traiter les faits comme des choses
+      Écarter les prénotions
+      Définir par caractères extérieurs
+      Viser les caractères objectifs
+    ⚖️ Normal et pathologique
+      Type moyen
+      Généralité du fait
+      Le crime est normal
+    🗂️ Types sociaux
+      Contre les monographies
+      Degré de composition
+      La horde société simple
+    🔗 Explication
+      Cause efficiente et fonction
+      Le social par le social
+      Milieu social interne
+        Volume de la société
+        Densité dynamique
+    🔬 Administration de la preuve
+      Méthode comparative
+      Variations concomitantes
+      Séries continues
+    🏛️ Conclusion
+      Indépendance philosophique
+      Objectivité
+      Autonomie de la sociologie
 ```
 
 !!! tip "Lecture de la carte"
-    Les trois branches centrales suivent l'ordre des raisons défendu par l'ouvrage : le fait scientifique est d'abord conquis contre le sens commun, puis construit, puis constaté. La branche « Entretien » regroupe ce que Bourdieu dit, vingt ans après, de la genèse du livre et des deux volumes annoncés mais jamais écrits.
+    Chaque branche principale correspond à un chapitre. Les feuilles reprennent le vocabulaire de Durkheim (prénotions, variations concomitantes, densité dynamique) pour qu'on puisse les retrouver dans le texte.
 
-    Pour une séance en sciences du langage, on peut demander à la phase 5 une branche supplémentaire « Transposition en linguistique de terrain » : catégories préconstruites (« langue », « dialecte », « locuteur natif »), présupposés de l'entretien sur les pratiques langagières, codage des transcriptions.
+    Pour aller plus loin, demandez à la phase 5 une branche « Postérité » : la critique des prénotions est reprise par Bourdieu, Chamboredon et Passeron dans *Le métier de sociologue* (1968). En sciences du langage, on peut transposer la règle d'écarter les prénotions aux catégories « langue », « dialecte » ou « locuteur natif ».
 
 ## Conseils d'utilisation
 

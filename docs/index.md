@@ -47,6 +47,14 @@ Chaque prompt est **interactif**. L'assistant avance par phases et s'arrête à 
 
     [→ Voir les prompts](didactique-fle/index.md)
 
+-   **🔎 Recherche documentaire**
+
+    ---
+
+    Construire des requêtes Google avancées pour trouver articles, thèses, corpus et ressources.
+
+    [→ Voir les prompts](recherche-documentaire/index.md)
+
 </div>
 
 ## Trois principes

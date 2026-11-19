@@ -69,8 +69,13 @@ nav:
           - Annoter (lemmes, catégories): linguistique-de-corpus/annotation-morphosyntaxique.md
           - Concordances (KWIC): linguistique-de-corpus/concordances-kwic.md
           - Segmenter un corpus: linguistique-de-corpus/segmentation.md
-          - Construire un concordancier: linguistique-de-corpus/concordancier.md
-          - Interroger un corpus (CQL et SQL): linguistique-de-corpus/requetes-cql-sql.md
+          - Rechercher dans le corpus:
+              - Du langage courant à l'expression régulière: linguistique-de-corpus/expressions-regulieres.md
+              - Repérer un phénomène par regex: linguistique-de-corpus/regex-phenomenes.md
+              - Extraire des données par regex: linguistique-de-corpus/regex-extraction.md
+              - Remplacements en série: linguistique-de-corpus/regex-remplacements.md
+              - Interroger un corpus (CQL et SQL): linguistique-de-corpus/requetes-cql-sql.md
+              - Construire un concordancier: linguistique-de-corpus/concordancier.md
       - Analyser le corpus (lexicométrie):
           - Comptage de fréquences: lexicometrie/comptage-frequences.md
           - Calcul des spécificités: lexicometrie/calcul-specificites.md

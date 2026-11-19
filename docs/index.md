@@ -35,7 +35,7 @@ Chaque prompt est **interactif**. L'assistant avance par phases et s'arrête à 
 
     ---
 
-    Séquences fondées sur corpus, adaptation de textes au CECRL, correction de productions écrites.
+    Scénarios actionnels, oral et écrit, médiation, phonétique, approches plurielles, FOS et FOU, évaluation avec le CECR, interlangue.
 
     [→ Voir les prompts](didactique-fle/index.md)
 

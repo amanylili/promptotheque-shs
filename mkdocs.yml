@@ -88,9 +88,18 @@ nav:
           - Apprentissage profond appliqué au texte: linguistique-de-corpus/apprentissage-profond.md
   - Sociolinguistique:
       - sociolinguistique/index.md
-      - Guide d'entretien: sociolinguistique/guide-entretien.md
-      - Transcription de l'oral: sociolinguistique/transcription-oral.md
-      - Alternance codique: sociolinguistique/alternance-codique.md
+      - Enquêter:
+          - Entretien sociolinguistique (Labov): sociolinguistique/entretien-labovien.md
+          - Enquête rapide et anonyme: sociolinguistique/enquete-rapide-anonyme.md
+          - Guide d'entretien (représentations): sociolinguistique/guide-entretien.md
+          - Transcription de l'oral: sociolinguistique/transcription-oral.md
+      - Décrire et mesurer la variation:
+          - Définir et coder une variable: sociolinguistique/variable-sociolinguistique.md
+          - Analyse quantitative de la variation: sociolinguistique/analyse-variationniste.md
+      - Discours, représentations, plurilinguisme:
+          - Analyser un récit oral (Labov et Waletzky): sociolinguistique/recit-experience.md
+          - Insécurité linguistique et évaluations subjectives: sociolinguistique/insecurite-linguistique.md
+          - Alternance codique: sociolinguistique/alternance-codique.md
   - Didactique du FLE:
       - didactique-fle/index.md
       - Séquence sur corpus: didactique-fle/sequence-sur-corpus.md

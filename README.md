@@ -9,7 +9,7 @@ Des prompts prêts à l'emploi pour les **sciences du langage**, à utiliser ave
 | Rubrique | Prompts |
 |---|---|
 | 📚 Linguistique de corpus et lexicométrie | Constituer · Nettoyer · Segmenter · Pseudonymiser · Annoter · Concordances (KWIC) · Concordancier · Requêtes CQL/SQL · Fréquences · Spécificités (Lafon) · Segments répétés · Motifs · Cooccurrences · AFC · ACP · Classification (Reinert, CAH, k-means) · Statistiques (Brezina) · Entités nommées · Alignement · Apprentissage profond |
-| 🗣️ Sociolinguistique | Guide d'entretien · Transcription de l'oral · Alternance codique |
+| 🗣️ Sociolinguistique | Variable sociolinguistique · Entretien (Labov) · Enquête rapide et anonyme · Analyse quantitative de la variation · Récit oral (Labov et Waletzky) · Insécurité linguistique · Guide d'entretien · Transcription de l'oral · Alternance codique |
 | 🎓 Didactique du FLE | Séquence sur corpus · Adapter un texte au CECRL · Corriger une production écrite |
 | 🔎 Recherche documentaire | Recherche Google avancée |
 | 🧠 Visualisation | Carte mentale (Mermaid) |

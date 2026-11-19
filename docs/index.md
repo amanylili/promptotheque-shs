@@ -55,6 +55,14 @@ Chaque prompt est **interactif**. L'assistant avance par phases et s'arrête à 
 
     [→ Voir les prompts](recherche-documentaire/index.md)
 
+-   **🧠 Visualisation**
+
+    ---
+
+    Transformer entretiens, lectures et notes de séminaire en cartes mentales (Mermaid).
+
+    [→ Voir les prompts](visualisation/index.md)
+
 </div>
 
 ## Trois principes

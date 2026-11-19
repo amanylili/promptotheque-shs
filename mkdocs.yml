@@ -102,9 +102,22 @@ nav:
           - Alternance codique: sociolinguistique/alternance-codique.md
   - Didactique du FLE:
       - didactique-fle/index.md
-      - Séquence sur corpus: didactique-fle/sequence-sur-corpus.md
-      - Adapter un texte au CECRL: didactique-fle/adapter-texte-cecrl.md
-      - Corriger une production écrite: didactique-fle/correction-production-ecrite.md
+      - Concevoir:
+          - Scénario actionnel: didactique-fle/scenario-actionnel.md
+          - FOS et FOU: didactique-fle/fos-fou.md
+      - Activités langagières:
+          - Document audio ou vidéo: didactique-fle/comprehension-orale.md
+          - Adapter un texte au CECRL: didactique-fle/adapter-texte-cecrl.md
+          - Interaction et production orales: didactique-fle/interaction-orale.md
+          - Médiation: didactique-fle/mediation.md
+      - Ressources langagières:
+          - Séquence sur corpus: didactique-fle/sequence-sur-corpus.md
+          - Phonétique corrective: didactique-fle/phonetique-corrective.md
+          - Approches plurielles et interculturel: didactique-fle/approches-plurielles.md
+      - Évaluer et analyser:
+          - Évaluer avec le CECR: didactique-fle/evaluation-cecr.md
+          - Corriger une production écrite: didactique-fle/correction-production-ecrite.md
+          - Analyser l'interlangue: didactique-fle/interlangue.md
   - Recherche documentaire:
       - recherche-documentaire/index.md
       - Recherche Google avancée: recherche-documentaire/recherche-google-avancee.md
